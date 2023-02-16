@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCtOKRjcPGxAkrgGGfh2oJcWIuKvQxF/5awtu3SyljWzDL0UGQsIyE8GA7u0hgh9Z/qILXDMjnl6qcCtM7En0QAueuhiRqLD6btp92VV2Jgyr2qcc7lgvokKIKgPnl9f258dz2rh+L/z138tAOZKDhVpZTdZgX1o508aMaHTm3BApHGfp+BT4RofKhtQLwtUapGs39N+SJoOjU0E+AwLCR3AQ90y18Btnp/2eQapLHtzEbNXZk33FufZ9I83uPsI93rjME/2OzQ1qo+akARKxRjhhe4m6iWtloceNMhsdcti+QMKdydX1EW6dVztutPyBt9MAR3ve8YrGkogBIEVnw7d6m+VSGAASjaRng5HssMsak1HVMY3AO0nWm4847pzcA0mw6Hv2AhC30PldQN40VCY4CSVPtLnHdAmS4d2iw20KN/20Ts77pROLFaFSVPLPFa7K1nHnCXvu9AQ3O3oo3qasqkq7w9ka6CJLkzfwwMMncyve9Es/AFzhXDiBtUGirzBcNf1fteduG7mM8LgSf16+96JOQ5h2mlFoII+aQULeLfe5SIN6nKZaZVJvvg7McslXP9U4MqBT4KyQU29eO0cyOIG9FWgLTj5Komr5HbfTNF2npbscFauNzn3ZSAPBT1HurGMr0g5KUFsDNbfN8EGu7xPYnot2md832k5O+1ew== cthomas@MBP-de-Cedric"
+        ]
+      }
+    ]
+  }
+}
